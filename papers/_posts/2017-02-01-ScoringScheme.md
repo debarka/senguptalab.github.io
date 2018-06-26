@@ -9,7 +9,7 @@ volume: 28
 issue: 2
 pages: 405-414
 authors: "Debarka Sengupta, Sanghamitra Bandyopadhyay, Debajyoti Sinha"
-image: /assets/images/papers/ScoringScheme.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/ScoringScheme.png
 pdf:
 pdflink: https://ieeexplore.ieee.org/abstract/document/7389431/
 github: debsin
