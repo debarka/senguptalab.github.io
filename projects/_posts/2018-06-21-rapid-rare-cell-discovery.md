@@ -15,4 +15,4 @@ Development of the in-drop barcoding technique for single cells has opened the f
 Existing rare cell finding algorithms including GiniClust[PMID: 27368803] and RaceID [PMID: 26287467]) are computationally demanding and in practice, do not scale beyond 5-15K transcriptomes. We have developed FiRE, a patent-pending, linear-time, monolithic algorithm for rareness scoring of a massive number of cell transcriptomes in a matter of a few seconds.
 
 
-![RapidRareCellDiscovery](https://debarka.github.io/senguptalab/assets/images/RapidRareCellDiscovery.png){:width="400px" style=".center"}
+<!--![RapidRareCellDiscovery](https://debarka.github.io/senguptalab/assets/images/RapidRareCellDiscovery.png){:width="400px" style=".center"}-->
