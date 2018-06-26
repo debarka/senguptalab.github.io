@@ -2,7 +2,7 @@
 layout: paper
 title: "Reference component analysis of single-cell transcriptomes elucidates cellular heterogeneity in human colorectal tumors"
 year: "2017"
-shortref: "Debarka et al. Nature Genetics 2017"
+shortref: "Li et al. Nature Genetics 2017"
 nickname:
 journal: "Nature Genetics"
 volume: 49
