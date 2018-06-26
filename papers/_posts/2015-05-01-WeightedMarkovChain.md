@@ -2,7 +2,7 @@
 layout: paper
 title: "Weighted Markov Chain Based Aggregation of Biomolecule Orderings"
 year: "2012"
-shortref: "Debarka et al. IEEE/ACM Transactions 2012"
+shortref: "Sengupta et al. IEEE/ACM Transactions 2012"
 nickname:
 journal: "IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)"
 volume: 9
