@@ -2,7 +2,7 @@
 layout: paper
 title: "A scoring scheme for online feature selection: simulating model performance without retraining"
 year: "2017"
-shortref: "Debarka et al. IEEE transactions 2017"
+shortref: "Sengupta et al. IEEE transactions 2017"
 nickname:
 journal: "IEEE transactions on neural networks and learning systems"
 volume: 28
