@@ -9,7 +9,7 @@ volume: 49
 issue: 5
 pages: 708
 authors: "Huipeng Li, Elise T Courtois, Debarka Sengupta, Yuliana Tan, Kok Hao Chen, Jolene Jie Lin Goh, Say Li Kong, Clarinda Chua, Lim Kiat Hon, Wah Siew Tan, Mark Wong, Paul Jongjoon Choi, Lawrence JK Wee, Axel M Hillmer, Iain Beehuat Tan, Paul Robson, Shyam Prabhakar"
-image: /assets/images/papers/ReferenceComponentAnalysis.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/ReferenceComponentAnalysis.png
 pdf:
 pdflink: https://www.nature.com/articles/ng.3818
 github:
