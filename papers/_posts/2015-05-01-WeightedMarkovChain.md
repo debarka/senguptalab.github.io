@@ -9,7 +9,7 @@ volume: 9
 issue: 3
 pages: 924-933
 authors: "Debarka Sengupta, Ujjwal Maulik, Sanghamitra Bandyopadhyay"
-image: /assets/images/papers/WeightedMarkovChain.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/WeightedMarkovChain.png
 pdf:
 pdflink: https://dl.acm.org/citation.cfm?id=2189830
 github:
