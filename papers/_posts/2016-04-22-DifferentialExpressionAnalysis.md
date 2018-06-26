@@ -2,7 +2,7 @@
 layout: paper
 title: "Fast, scalable and accurate differential expression analysis for single cells"
 year: "2016"
-shortref: "Debarka et al. bioRxiv 2016"
+shortref: "Sengupta et al. bioRxiv 2016"
 nickname:
 journal: "bioRxiv"
 volume:
