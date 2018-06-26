@@ -9,7 +9,7 @@ volume: 8
 issue: 345
 pages: 345ra89-345ra89
 authors: Igor Cima, Say Li Kong, Debarka Sengupta, Iain B Tan, Wai Min Phyo, Daniel Lee, Min Hu, Ciprian Iliescu, Irina Alexander, Wei Lin Goh, Mehran Rahmani, Nur-Afidah Mohamed Suhaimi, Jess H Vo, Joyce A Tai, Joanna H Tan, Clarinda Chua, Rachel Ten, Wan Jun Lim, Min Hoe Chew, Charlotte AE Hauser, Rob M van Dam, Wei-Yen Lim, Shyam Prabhakar, Bing Lim, Poh Koon Koh, Paul Robson, Jackie Y Ying, Axel M Hillmer, Min-Han Tan
-image: /assets/images/papers/ColorectalCancer.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/ColorectalCancer.png
 pdf:
 pdflink: http://stm.sciencemag.org/content/8/345/345ra89/tab-e-letters
 github:
