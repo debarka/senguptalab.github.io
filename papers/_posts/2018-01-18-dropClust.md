@@ -2,7 +2,7 @@
 layout: paper
 title: "dropClust: Efficient clustering of ultra-large scRNA-seq data"
 year: "2018"
-shortref: "Debarka et al. Nucleic Acids Research 2018"
+shortref: "Sinha et al. Nucleic Acids Research 2018"
 nickname:
 journal: "Nucleic Acids Research"
 volume: 46
