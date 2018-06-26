@@ -2,7 +2,7 @@
 layout: paper
 title: "Topological patterns in microRNA–gene regulatory network: studies in colorectal and breast cancer"
 year: "2013"
-shortref: "Debarka et al. Molecular bioSystems 2013"
+shortref: "Sengupta et al. Molecular bioSystems 2013"
 nickname:
 journal: "Molecular bioSystems"
 volume: 9
