@@ -2,7 +2,7 @@
 layout: paper
 title: "A novel measure for evaluating an ordered list: application in microRNA target prediction"
 year: "2010"
-shortref: "Debarka et al. International Symposium on Biocomputing 2010"
+shortref: "Sengupta et al. International Symposium on Biocomputing 2010"
 nickname:
 journal: "Proceedings of the International Symposium on Biocomputing"
 volume:
