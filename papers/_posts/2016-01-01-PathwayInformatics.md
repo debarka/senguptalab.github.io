@@ -2,7 +2,7 @@
 layout: paper
 title: "Pathway Informatics"
 year: "2016"
-shortref: "Sarita Poonia, Smriti Chawla, Sandeep Kaushik, Debarka Sengupta Elsevier 2016"
+shortref: "Poonia et al. Elsevier 2016"
 nickname:
 journal: "Elsevier"
 volume:
