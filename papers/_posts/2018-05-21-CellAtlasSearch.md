@@ -2,7 +2,7 @@
 layout: paper
 title: "CellAtlasSearch: a scalable search engine for single cells"
 year: "2018"
-shortref: "Debarka et al. Nucleic Acids Research 2018"
+shortref: "Srivastava et al. Nucleic Acids Research 2018"
 nickname:
 journal: "Nucleic Acids Research"
 volume:
