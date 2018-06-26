@@ -3,7 +3,7 @@ layout: news
 title: "DropClust, speediest clustering algorithm"
 author: "Debarka Sengupta"
 author_handle: Debarka Sengupta
-image: /assets/images/news/default-news.png
+image: https://debarka.github.io/senguptalab/assets/images/news/default-news.png
 category: news
 tags: [publication]
 ---
