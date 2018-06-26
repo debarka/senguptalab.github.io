@@ -8,7 +8,7 @@ email: priyadarshinir@iiitd.ac.in
 twitter:
 github:
 scholar:
-image: /assets/images/team/Priyadarshini.jpg
+image: https://debarka.github.io/senguptalab/assets/images/team/Priyadarshini.jpg
 cv:
 alum: false
 ---
