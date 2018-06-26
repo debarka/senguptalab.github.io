@@ -9,7 +9,7 @@ volume:
 issue:
 pages:
 authors: "Sarita Poonia, Smriti Chawla, Sandeep Kaushik, Debarka Sengupta 2016"
-image: /assets/images/papers/PathwayInformatics.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/PathwayInformatics.png
 pdf:
 pdflink: https://www.sciencedirect.com/science/article/pii/B9780128096338202884
 github:
