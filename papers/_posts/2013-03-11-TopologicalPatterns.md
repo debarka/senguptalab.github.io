@@ -9,7 +9,7 @@ volume: 9
 issue: 6
 pages: 1360-1371
 authors: "Debarka Sengupta, Sanghamitra Bandyopadhyay"
-image: /assets/images/papers/TopologicalPatterns.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/TopologicalPatterns.png
 pdf:
 pdflink: http://pubs.rsc.org/en/Content/ArticleLanding/2013/MB/c3mb25518b#!divAbstract
 github:
