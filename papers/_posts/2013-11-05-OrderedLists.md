@@ -2,7 +2,7 @@
 layout: paper
 title: "Determining a relative importance among ordered lists"
 year: "2013"
-shortref: "Debarka et al. United States Patent 2013"
+shortref: "Bandyopadhyay et al. United States Patent 2013"
 nickname:
 journal: "United States Patent"
 volume:
