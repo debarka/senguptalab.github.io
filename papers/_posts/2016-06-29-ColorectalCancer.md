@@ -2,7 +2,7 @@
 layout: paper
 title: "Tumor-derived circulating endothelial cell clusters in colorectal cancer"
 year: "2016"
-shortref: "Debarka et al. Science Translational Medicine 2016"
+shortref: "Cima et al. Science Translational Medicine 2016"
 nickname:
 journal: "Science Translational Medicine"
 volume: 8
