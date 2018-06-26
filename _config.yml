@@ -65,7 +65,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : /senguptalab
+  BASE_PATH : https://debarka.github.io/senguptalab
   #baseurl: /
   #url: https://debarka.github.io
   #baseurl: /debarka
