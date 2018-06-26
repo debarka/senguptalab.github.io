@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 8577873
 authors: "Sanghamitra Bandyopadhyay, Debarka Sengupta, Ujjwal Maulik"
-image: /assets/images/papers/OrderedLists.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/OrderedLists.png
 pdf:
 pdflink: https://patents.google.com/patent/US8577873B2/en
 github:
