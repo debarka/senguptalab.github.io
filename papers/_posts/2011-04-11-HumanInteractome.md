@@ -2,7 +2,7 @@
 layout: paper
 title: "Participation of microRNAs in human interactome: extraction of microRNA–microRNA regulations"
 year: "2011"
-shortref: "Debarka et al. Molecular Biosystems 2011"
+shortref: "Sengupta et al. Molecular Biosystems 2011"
 nickname:
 journal: "Molecular Biosystems"
 volume: 7
