@@ -9,7 +9,7 @@ volume: 40
 issue: 4
 pages: 721-730
 authors: "Debarka Sengupta, Indranil Aich, Sanghamitra Bandyopadhyay"
-image: /assets/images/papers/FeatureSelection.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/FeatureSelection.png
 pdf:
 pdflink: https://link.springer.com/article/10.1007/s12038-015-9556-y
 github:
