@@ -1,0 +1,846 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title> Sengupta Lab </title>
+    <meta name="description" content="Research papers from the lab">
+    <meta name="author" content="D. Allan Drummond">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Bootstrap styles -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Optional theme -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"/>
+    <!-- Sticky Footer -->
+    <link href="/assets/themes/lab/bootstrap/css/bs-sticky-footer.css" rel="stylesheet"/>
+
+    <!-- Custom styles -->
+    <link href="/assets/themes/lab/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
+
+    <!-- icon -->
+    <link rel="shortcut icon" href="/assets/themes/lab/images/logo/SenguptaFavicon.ico"/>
+
+    <!-- Custom fonts and icons via Font Awesome, http://fortawesome.github.io/Font-Awesome/ -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+
+    <!-- Fonts via Google -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'/>
+
+    <!-- Math via MathJax -->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!-- Update these with your own images
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    -->
+
+    <!-- atom & rss feed
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    -->
+
+  </head>
+
+  <body>
+
+  <!-- Static top navbar -->
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class='container'>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="/">
+        <img class="pull-left logo" src="/assets/themes/lab/images/logo/SenguptaFavicon.svg" type="image/svg+xml">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+        <ul class="nav navbar-nav navbar-left hidden-sm">
+          <!-- Don't put site title on home page -- there's already a big title there. -->
+          
+          
+          
+          <a class="navbar-brand" href="/">The Sengupta Lab</a>
+          
+        </ul>
+        <ul class="nav navbar-nav navbar-right pull-right">
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/projects/">Research</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/team/">Team</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li class="active"><a href="/papers/" class="active">Papers</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+          <li class="dropdown nav navbar-nav">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+              More <span class="caret"></span>
+            </a>
+
+            <ul class="dropdown-menu nav navbar-nav" role="menu">
+              
+              
+              
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/protocols/">Softwares</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/news/">News</a></li>
+      	
+      
+    
+  
+
+
+
+            </ul>
+            </li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </nav>
+   </div>
+
+   <!-- Content -->
+   <div class="container">
+      
+<div class="bigspacer"></div>
+
+
+  
+  
+   <!-- opening of a new row -->
+  <div class="row">
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/CellAtlasSearch">
+          <img width=100 class="media-object" src="/assets/images/papers/CellAtlasSearch.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/CellAtlasSearch" class="off">CellAtlasSearch: a scalable search engine for single cells</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. Nucleic Acids Research 2018</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/dropClust">
+          <img width=100 class="media-object" src="/assets/images/papers/dropClust.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/dropClust" class="off">dropClust: Efficient clustering of ultra-large scRNA-seq data</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. Nucleic Acids Research 2018</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/ReferenceComponentAnalysis">
+          <img width=100 class="media-object" src="/assets/images/papers/ReferenceComponentAnalysis.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/ReferenceComponentAnalysis" class="off">Reference component analysis of single-cell transcriptomes elucidates cellular heterogeneity in human colorectal tumors</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. Nature Genetics 2017</p>
+      </div>
+    </div>
+    
+  </div>
+   <!-- closing a row -->
+  </div><div class="bigspacer"></div>
+  
+
+  
+  
+   <!-- opening of a new row -->
+  <div class="row">
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/ParSel">
+          <img width=100 class="media-object" src="/assets/images/papers/ParSel.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/ParSel" class="off">ParSel: Parallel Selection of Micro‐RNAs for Survival Classification in Cancers</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. Molecular Informatics 2017</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/ScoringScheme">
+          <img width=100 class="media-object" src="/assets/images/papers/ScoringScheme.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/ScoringScheme" class="off">A scoring scheme for online feature selection: simulating model performance without retraining</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. IEEE transactions 2017</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/FORKS">
+          <img width=100 class="media-object" src="/assets/images/papers/FORKS.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/FORKS" class="off">FORKS: Finding Orderings Robustly using k-means and Steiner trees</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. bioRxiv 2017</p>
+      </div>
+    </div>
+    
+  </div>
+   <!-- closing a row -->
+  </div><div class="bigspacer"></div>
+  
+
+  
+  
+   <!-- opening of a new row -->
+  <div class="row">
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/ColorectalCancer">
+          <img width=100 class="media-object" src="/assets/images/papers/ColorectalCancer.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/ColorectalCancer" class="off">Tumor-derived circulating endothelial cell clusters in colorectal cancer</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. Science Translational Medicine 2016</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/DifferentialExpressionAnalysis">
+          <img width=100 class="media-object" src="/assets/images/papers/DifferentialExpressionAnalysis.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/DifferentialExpressionAnalysis" class="off">Fast, scalable and accurate differential expression analysis for single cells</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. bioRxiv 2016</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/chapter/PathwayInformatics">
+          <img width=100 class="media-object" src="/assets/images/papers/PathwayInformatics.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/chapter/PathwayInformatics" class="off">Pathway Informatics</a>
+          </div>
+          <p class="note" style="color:#696969;">Sarita Poonia, Smriti Chawla, Sandeep Kaushik, Debarka Sengupta Elsevier 2016</p>
+      </div>
+    </div>
+    
+  </div>
+   <!-- closing a row -->
+  </div><div class="bigspacer"></div>
+  
+
+  
+  
+   <!-- opening of a new row -->
+  <div class="row">
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/FOCS">
+          <img width=100 class="media-object" src="/assets/images/papers/FOCS.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/FOCS" class="off">FOCS: Fast Overlapped Community Search</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. IEEE Transactions 2015</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/FeatureSelection">
+          <img width=100 class="media-object" src="/assets/images/papers/FeatureSelection.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/FeatureSelection" class="off">Feature selection using feature dissimilarity measure and density-based clustering: Application to biological data</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. Journal of Biosciences 2015</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/WeightedMarkovChain">
+          <img width=100 class="media-object" src="/assets/images/papers/WeightedMarkovChain.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/WeightedMarkovChain" class="off">Weighted Markov Chain Based Aggregation of Biomolecule Orderings</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. IEEE/ACM Transactions 2012</p>
+      </div>
+    </div>
+    
+  </div>
+   <!-- closing a row -->
+  </div><div class="bigspacer"></div>
+  
+
+  
+  
+   <!-- opening of a new row -->
+  <div class="row">
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/Nas">
+          <img width=100 class="media-object" src="/assets/images/papers/Nash.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/Nas" class="off">Strong Nash Stability based Approach to Minimum Quasi Clique Partitioning</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. COMSNETS 2014</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/OrderedLists">
+          <img width=100 class="media-object" src="/assets/images/papers/OrderedLists.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/OrderedLists" class="off">Determining a relative importance among ordered lists</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. United States Patent 2013</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/XRDS">
+          <img width=100 class="media-object" src="/assets/images/papers/XRDS.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/XRDS" class="off">XRDS Mobilizes</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. ACM Magazine for Students 2013</p>
+      </div>
+    </div>
+    
+  </div>
+   <!-- closing a row -->
+  </div><div class="bigspacer"></div>
+  
+
+  
+  
+   <!-- opening of a new row -->
+  <div class="row">
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/GRF">
+          <img width=100 class="media-object" src="/assets/images/papers/GRF.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/GRF" class="off">GRF: a greedy rank fusion algorithm for combining microRNA target orderings</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. Molecular Informatics 2013</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/KemenyAggr">
+          <img width=100 class="media-object" src="/assets/images/papers/KemenyAggr.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/KemenyAggr" class="off">Reformulated Kemeny Optimal Aggregation with Application in Consensus Ranking of microRNA Targets</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. IEEE/ACM transactions 2013</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/TopologicalPatterns">
+          <img width=100 class="media-object" src="/assets/images/papers/TopologicalPatterns.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/TopologicalPatterns" class="off">Topological patterns in microRNA–gene regulatory network: studies in colorectal and breast cancer</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. Molecular bioSystems 2013</p>
+      </div>
+    </div>
+    
+  </div>
+   <!-- closing a row -->
+  </div><div class="bigspacer"></div>
+  
+
+  
+  
+   <!-- opening of a new row -->
+  <div class="row">
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/microRNA">
+          <img width=100 class="media-object" src="/assets/images/papers/microRNA.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/microRNA" class="off">Score based aggregation of microRNA target orderings</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. International Symposium on Bioinformatics Research and Applications 2012</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/HumanInteractome">
+          <img width=100 class="media-object" src="/assets/images/papers/HumanInteractome.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/HumanInteractome" class="off">Participation of microRNAs in human interactome: extraction of microRNA–microRNA regulations</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. Molecular Biosystems 2011</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+  
+  
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/Entropy">
+          <img width=100 class="media-object" src="/assets/images/papers/Entropy.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/Entropy" class="off">Entropy steered Kendall's tau measure for a fair Rank Aggregation</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. NCETACS 2011</p>
+      </div>
+    </div>
+    
+  </div>
+   <!-- closing a row -->
+  </div><div class="bigspacer"></div>
+  
+
+  
+  
+   <!-- opening of a new row -->
+  <div class="row">
+  
+
+  <div class="col-md-4 paperbox">
+    
+   <div class="media">
+        <a class="pull-right" href="/papers/paper/OrderedList">
+          <img width=100 class="media-object" src="/assets/images/papers/OrderedList.png">
+        </a>
+      <div class="media-body">
+          <div class="smallhead media-heading">
+          <a href="/papers/paper/OrderedList" class="off">A novel measure for evaluating an ordered list: application in microRNA target prediction</a>
+          </div>
+          <p class="note" style="color:#696969;">Debarka et al. International Symposium on Biocomputing 2010</p>
+      </div>
+    </div>
+    
+  </div>
+  
+
+ <!-- close last open row -->
+</div><div class="bigspacer"></div>
+
+
+
+<div class="bigspacer"></div>
+
+   </div>
+
+
+  <!-- Static bottom navbar -->
+  <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-bottom-collapse"> <!-- NOTE! data-target was changed to jb-bottom-collapse -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+        <ul class="nav navbar-nav navbar-left navbar-small">
+          <li><a href="http://ccb.iiitd.ac.in/"> Computational Biology </a></li>
+          <li><a href="http://iiitd.ac.in/"> Indraprastha Institute of Information Technology </a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right navbar-small">
+          <li><a href='/about.html#purpose'>About</a></li>
+          <li><a href='/about.html#contact'>Contact</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+
+
+
+    
+
+
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-62008526-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/assets/themes/lab/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
+

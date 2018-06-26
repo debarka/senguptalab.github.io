@@ -1,0 +1,44 @@
+---
+layout: default
+title: "Research"
+description: "Research projects in the lab"
+group: navigation
+navorder: 1
+---
+{% include JB/setup %}
+<div class="bigspacer"></div>
+
+{% for project in site.categories.projects %}
+
+{% for member in site.categories.team %}
+  {% if member.handle == project.author_handle %}
+    {% assign author = member %}
+  {% endif %}
+{% endfor %}
+
+<div class="bigspacer"></div>
+<div class="row">
+  <div class="col-md-3">
+    <div class="head">
+      <a href="" class="off">{{ project.title }}</a>
+    </div>
+    <div class="smallnote">
+      {{ project.date | date_to_string }}
+    </div>
+    {% if author %}
+    by <a class="off" href="{{ author.url }}">{{ author.nickname }}</a>
+    {% endif %}
+  </div>
+  <div class="col-md-8">
+    <div style="height:5px;"></div>
+    {% if project.image %}
+    <a href=""><img class="offset" src="{{ project.image }}"></a>
+    {% endif %}
+    <div class="post">
+      {{ project.content }}
+    </div>
+  </div>
+  <div class="col-md-1"></div>
+</div>
+
+{% endfor %}

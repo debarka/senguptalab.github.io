@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Drummond Lab</title>
+        <description>Drummond Lab - D. Allan Drummond</description>
+        <link>http://drummondlab.org</link>
+        <link>http://drummondlab.org</link>
+        <lastBuildDate>2018-06-26T12:39:33+05:30</lastBuildDate>
+        <pubDate>2018-06-26T12:39:33+05:30</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>About</title>
+                <description>
+&lt;p&gt;&lt;a name=&quot;purpose&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;purpose&quot;&gt;Purpose&lt;/h1&gt;
+
+&lt;p&gt;Via this website, we intend to share with the world, information about our group, our achievements, and the different lines of research being pursued by our group members currently.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;contact&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;contact&quot;&gt;Contact&lt;/h1&gt;
+
+&lt;h2 id=&quot;mailing-address&quot;&gt;Mailing Address&lt;/h2&gt;
+&lt;p&gt;Office: A-306 (New Academic Building).&lt;br /&gt;
+Lab: A-313 (New Academic Building).&lt;br /&gt;
+Indraprastha Institute of Information Technology, Okhla Industrial Estate, Phase III (Near Govind Puri Metro Station), New Delhi, India - 110020&lt;/p&gt;
+
+&lt;p&gt;On the &lt;a href=&quot;https://www.google.com/maps/place/Indraprastha+Institute+of+Information+Technology+Delhi/@28.545628,77.27315,16z/data=!4m5!3m4!1s0x0:0x2c582e340e7bc556!8m2!3d28.5456282!4d77.2731505?hl=en-US&quot;&gt;map&lt;/a&gt;, IIIT-Delhi campus is located in Okhla, near Nehru Place, New Delhi. Our lab is at the southwest corner on the third floor.&lt;/p&gt;
+
+&lt;h2 id=&quot;phone&quot;&gt;Phone&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Office: (011) 26907446&lt;/li&gt;
+  &lt;li&gt;Email: debarka@iiitd.ac.in&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;http://www.debarka.com/&quot;&gt;www.debarka.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&quot;design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;design-and-implementation&quot;&gt;Design and Implementation&lt;/h1&gt;
+
+&lt;p&gt;We were inspired by &lt;a href=&quot;http://bedford.io/team/trevor-bedford/&quot;&gt;Trevor Bedford&lt;/a&gt; lab website which eventually lead me to copy many aspects of his site, from visual layout to content organization, at Trevor’s &lt;a href=&quot;http://bedford.io/misc/about/&quot;&gt;public&lt;/a&gt; invitation.&lt;/p&gt;
+
+&lt;p&gt;The site started with Jekyll, and was up and running in a week. The site is deployed using GitHub Pages.&lt;/p&gt;
+
+&lt;p&gt;The site’s source code is freely available on &lt;a href=&quot;http://github.com/&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/misc/about</link>
+                <guid>http://drummondlab.org/misc/about</guid>
+                <pubDate>2018-06-25T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Sunidhi</title>
+                <description>
+</description>
+                <link>http://drummondlab.org/team/sunidhi</link>
+                <guid>http://drummondlab.org/team/sunidhi</guid>
+                <pubDate>2018-06-21T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Shivam Sharma</title>
+                <description>
+</description>
+                <link>http://drummondlab.org/team/shivam</link>
+                <guid>http://drummondlab.org/team/shivam</guid>
+                <pubDate>2018-06-21T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Ayushi Gupta</title>
+                <description>
+</description>
+                <link>http://drummondlab.org/team/ayushi</link>
+                <guid>http://drummondlab.org/team/ayushi</guid>
+                <pubDate>2018-06-21T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Rapid rare cell discovery</title>
+                <description>
+&lt;p&gt;Development of the in-drop barcoding technique for single cells has opened the floodgate for production of large-scale scRNA-seq data. With the growing popularity of the assay and availability of affordable commercial platforms (ChromiumTM by 10x Genomics, ICELL8 by WaferGen Biosystems etc.) a sharp increase has been observed in the average sample sizes of the recent single-cell studies. A typical Drop-seq experiment involves profiling of several tens of thousands of cells on a single run.
+Existing rare cell finding algorithms including GiniClust[PMID: 27368803] and RaceID [PMID: 26287467]) are computationally demanding and in practice, do not scale beyond 5-15K transcriptomes. We have developed FiRE, a patent-pending, linear-time, monolithic algorithm for rareness scoring of a massive number of cell transcriptomes in a matter of a few seconds.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/RapidRareCellDiscovery.png&quot; alt=&quot;RapidRareCellDiscovery&quot; width=&quot;400px&quot; style=&quot;.center&quot; /&gt;&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/projects/project/rapid-rare-cell-discovery</link>
+                <guid>http://drummondlab.org/projects/project/rapid-rare-cell-discovery</guid>
+                <pubDate>2018-06-21T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Label-free, in silico detection of Circulating Tumor Cells (CTCs)</title>
+                <description>
+&lt;p&gt;Cancer cells, after detaching from solid tumors migrate through the bloodstream to colonize at distant organs, leading to the development of cancer metastases. Cancer cells under circulation are called circulating tumor cells (CTCs). As blood-based bio-marker, CTCs offer the real-time snapshot of tumor evolution and therapeutic responses. Despite the promises, acute rareness of CTCs in blood hinders their isolation and characterization. The existing, marker-based sorting techniques fail to detect CTCs with atypical, non-epithelial phenotypes. Through a rigorous, data driven approach, we have come up with a panel of a few hundreds of genes that perfectly distinguishes between single cell transcriptomes of common blood cell types and CTCs.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/projects/project/labelFree</link>
+                <guid>http://drummondlab.org/projects/project/labelFree</guid>
+                <pubDate>2018-06-21T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>New Member in Lab</title>
+                <description>&lt;p&gt;&lt;a href=&quot;/team//shreya&quot;&gt;Shreya Mishra&lt;/a&gt; joins the group for Ph.D.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/news/shreya-joins</link>
+                <guid>http://drummondlab.org/news/shreya-joins</guid>
+                <pubDate>2018-06-21T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>CellAtlasSearch: Single cell search engine</title>
+                <description>
+&lt;p&gt;The web-server is accessible at the following &lt;a href=&quot;http://cellatlassearch.com/&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/protocols/protocol/CellAtlasSearch</link>
+                <guid>http://drummondlab.org/protocols/protocol/CellAtlasSearch</guid>
+                <pubDate>2018-05-21T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>GPU accelerated single cell search</title>
+                <description>
+&lt;p&gt;An explosion in production of single-cell expression data has triggered the need for a search engine. To cater to the need of the hour, we developed CellAtlasSearch, a novel search architecture for high dimensional expression data, which is massively parallel as well as light-weight, thus infinitely scalable. In CellAtlasSearch, we use a Graphical Processing Unit (GPU) friendly version of Locality Sensitive Hashing (LSH) for unmatched speedup in data processing and query. Currently, CellAtlasSearch features over 300 000 reference expression profiles including both bulk and single-cell data. The web-server is accessible at the &lt;a href=&quot;https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky421/5000022&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/CellAtlasSearch.jpeg&quot; alt=&quot;CellAtlasSearch&quot; height=&quot;400px width=&amp;quot;400px&quot; style=&quot;.center&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;publication&quot;&gt;Publication&lt;/h3&gt;
+
+&lt;p&gt;Srivastava, D., Iyer, A., Kumar, V., and Sengupta, D., 2018. &lt;a href=&quot;https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky421/5000022&quot;&gt;CellAtlasSearch:&lt;/a&gt; A scalable search engine for single cells.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/projects/project/cell-atlas-search</link>
+                <guid>http://drummondlab.org/projects/project/cell-atlas-search</guid>
+                <pubDate>2018-05-21T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>CellAtlasSearch: a scalable search engine for single cells</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Owing to the advent of high throughput single cell transcriptomics, past few years have seen exponential growth in production of gene expression data. Recently efforts have been made by various research groups to homogenize and store single cell expression from a large number of studies. The true value of this ever increasing data deluge can be unlocked by making it searchable. To this end, we propose CellAtlasSearch, a novel search architecture for high dimensional expression data, which is massively parallel as well as light-weight, thus infinitely scalable. In CellAtlasSearch, we use a Graphical Processing Unit (GPU) friendly version of Locality Sensitive Hashing (LSH) for unmatched speedup in data processing and query. Currently, CellAtlasSearch features over 300 000 reference expression profiles including both bulk and single-cell data. It enables the user query individual single cell transcriptomes and finds matching samples from the database along with necessary meta information. CellAtlasSearch aims to assist researchers and clinicians in characterizing unannotated single cells. It also facilitates noise free, low dimensional representation of single-cell expression profiles by projecting them on a wide variety of reference samples.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/CellAtlasSearch</link>
+                <guid>http://drummondlab.org/papers/paper/CellAtlasSearch</guid>
+                <pubDate>2018-05-21T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>CellAtlasSearch: Dream Project published</title>
+                <description>&lt;p&gt;Our dream project, &lt;a href=&quot;https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky421/5000022&quot;&gt;CellAtlasSearch&lt;/a&gt;, the first single cell search engine is now published by Nucleic Acids Research&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/news/CellAtlasSearch</link>
+                <guid>http://drummondlab.org/news/CellAtlasSearch</guid>
+                <pubDate>2018-05-21T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Sengupta Lab partners with Circle of Life Health Care Pvt. Ltd.</title>
+                <description>&lt;p&gt;Sengupta Lab partners with &lt;a href=&quot;http://mycol.in&quot;&gt;Circle of Life Health Care Pvt. Ltd.&lt;/a&gt; to help healthcare industry function intelligently both on the clinical and operational conducts.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/news/col</link>
+                <guid>http://drummondlab.org/news/col</guid>
+                <pubDate>2018-05-02T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>dropClust: Efficient clustering of Drop-seq data</title>
+                <description>
+&lt;p&gt;The dropClust R package is available on the &lt;a href=&quot;https://github.com/debsin/dropClust&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/protocols/protocol/dropClust</link>
+                <guid>http://drummondlab.org/protocols/protocol/dropClust</guid>
+                <pubDate>2018-01-18T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>LSH for clustering ultra-large Drop-seq data</title>
+                <description>
+&lt;p&gt;Droplet-based single-cell transcriptomics has recently enabled parallel screening of tens of thousands of single cells. Clustering methods that scale for such high dimensional data without compromising accuracy are scarce. We exploit Locality Sensitive Hashing, an approximate nearest neighbor search technique to develop a de novo clustering algorithm for large-scale single-cell data. On a number of real datasets, dropClust outperformed the existing best practice methods including Seurat in terms of speed, clustering accuracy and detectability of minor cell sub-types. Moreover, dropClust, for the first time, helps discerning transcriptomic signature of the regulatory T cell population in blood.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/dropClust.jpeg&quot; alt=&quot;dropClust&quot; height=&quot;700px&quot; width=&quot;700px&quot; style=&quot;.center&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;publication&quot;&gt;Publication&lt;/h3&gt;
+
+&lt;p&gt;Sinha, D., Kumar, A., Kumar, H., Bandyopadhyay, S., and Sengupta, D., 2018. &lt;a href=&quot;https://academic.oup.com/nar/article/46/6/e36/4816215&quot;&gt;dropClust:&lt;/a&gt; Efficient clustering of ultra-large scRNA-seq data.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/projects/project/dropClust</link>
+                <guid>http://drummondlab.org/projects/project/dropClust</guid>
+                <pubDate>2018-01-18T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>dropClust: Efficient clustering of ultra-large scRNA-seq data</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Droplet based single cell transcriptomics has recently enabled parallel screening of tens of thousands of single cells. Clustering methods that scale for such high dimensional data without compromising accuracy are scarce. We exploit Locality Sensitive Hashing, an approximate nearest neighbour search technique to develop a de novo clustering algorithm for large-scale single cell data. On a number of real datasets, dropClust outperformed the existing best practice methods in terms of execution time, clustering accuracy and detectability of minor cell sub-types.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/dropClust</link>
+                <guid>http://drummondlab.org/papers/paper/dropClust</guid>
+                <pubDate>2018-01-18T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>DropClust, speediest clustering algorithm</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://academic.oup.com/nar/article/46/6/e36/4816215&quot;&gt;DropClust&lt;/a&gt;, the speediest clustering algorithm for ultra-large scRNA-seq data is now published by Nucleic Acids Research.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/news/dropClust</link>
+                <guid>http://drummondlab.org/news/dropClust</guid>
+                <pubDate>2018-01-18T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Brooking India Consortium</title>
+                <description>&lt;p&gt;&lt;a href=&quot;/team/debarka&quot;&gt;Dr. Debarka Sengupta&lt;/a&gt; takes part in the &lt;a href=&quot;https://www.brookings.edu/blog/up-front/2018/05/02/brookings-india-consortium-brings-together-researchers-analysing-national-family-health-survey-iv/&quot;&gt;Brooking India Consortium&lt;/a&gt; for analyzing NFHS IV data.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/news/consortium</link>
+                <guid>http://drummondlab.org/news/consortium</guid>
+                <pubDate>2018-01-15T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Shreya Mishra</title>
+                <description>
+</description>
+                <link>http://drummondlab.org/team/shreya</link>
+                <guid>http://drummondlab.org/team/shreya</guid>
+                <pubDate>2017-08-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Chitrita Goswami</title>
+                <description>
+</description>
+                <link>http://drummondlab.org/team/chitrita</link>
+                <guid>http://drummondlab.org/team/chitrita</guid>
+                <pubDate>2017-07-02T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Smriti Chawla</title>
+                <description>
+</description>
+                <link>http://drummondlab.org/team/smriti</link>
+                <guid>http://drummondlab.org/team/smriti</guid>
+                <pubDate>2017-07-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>ParSel: Feature selection for improved survival prediction</title>
+                <description>
+&lt;p&gt;The ParSel R source-code is available on the &lt;a href=&quot;https://github.com/debsin/ParSel&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/protocols/protocol/ParSel</link>
+                <guid>http://drummondlab.org/protocols/protocol/ParSel</guid>
+                <pubDate>2017-07-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Sarita Poonia</title>
+                <description>
+</description>
+                <link>http://drummondlab.org/team/sarita</link>
+                <guid>http://drummondlab.org/team/sarita</guid>
+                <pubDate>2017-05-11T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Priya Rai</title>
+                <description>
+</description>
+                <link>http://drummondlab.org/team/priyadarshini</link>
+                <guid>http://drummondlab.org/team/priyadarshini</guid>
+                <pubDate>2017-05-11T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>RCA: Noise free single cell clustering (Shyam Prabhakar’s lab)</title>
+                <description>
+&lt;p&gt;Available on the &lt;a href=&quot;https://github.com/GIS-SP-Group/RCA&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/protocols/protocol/RCA</link>
+                <guid>http://drummondlab.org/protocols/protocol/RCA</guid>
+                <pubDate>2017-03-20T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Reference component analysis of single-cell transcriptomes elucidates cellular heterogeneity in human colorectal tumors</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Intratumoral heterogeneity is a major obstacle to cancer treatment and a significant confounding factor in bulk-tumor profiling. We performed an unbiased analysis of transcriptional heterogeneity in colorectal tumors and their microenvironments using single-cell RNA–seq from 11 primary colorectal tumors and matched normal mucosa. To robustly cluster single-cell transcriptomes, we developed reference component analysis (RCA), an algorithm that substantially improves clustering accuracy. Using RCA, we identified two distinct subtypes of cancer-associated fibroblasts (CAFs). Additionally, epithelial–mesenchymal transition (EMT)-related genes were found to be upregulated only in the CAF subpopulation of tumor samples. Notably, colorectal tumors previously assigned to a single subtype on the basis of bulk transcriptomics could be divided into subgroups with divergent survival probability by using single-cell signatures, thus underscoring the prognostic value of our approach. Overall, our results demonstrate that unbiased single-cell RNA–seq profiling of tumor and matched normal samples provides a unique opportunity to characterize aberrant cell states within a tumor.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/ReferenceComponentAnalysis</link>
+                <guid>http://drummondlab.org/papers/paper/ReferenceComponentAnalysis</guid>
+                <pubDate>2017-03-20T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>ParSel: Parallel Selection of Micro‐RNAs for Survival Classification in Cancers</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;It is known that tumor micro‐RNAs (miRNA) can define patient survival and treatment response. We present a framework to identify miRNAs which are predictive of cancer survival. The framework attempts to rank the miRNAs by exploring their collaborative role in gene regulation. Our approach tests a significantly large number of combinatorial cases leveraging parallel computation. We carefully avoided parametric assumptions involved in evaluations of miRNA expressions but used rigorous statistical computation to assign an importance score to a miRNA. Experimental results on three cancer types namely, KIRC, OV and GBM verify that the top ranked miRNAs obtained using the proposed framework produce better classification accuracy as compared to some best practice variable selection methods. Some of these top ranked miRNA are also known to be associated with related diseases.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/ParSel</link>
+                <guid>http://drummondlab.org/papers/paper/ParSel</guid>
+                <pubDate>2017-02-13T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Krishan Gupta</title>
+                <description>
+</description>
+                <link>http://drummondlab.org/team/krishan</link>
+                <guid>http://drummondlab.org/team/krishan</guid>
+                <pubDate>2017-02-02T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>A scoring scheme for online feature selection: simulating model performance without retraining</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Increasing the number of features increases the complexity of a model even if the additional feature does not improve its decision-making capacity. Irrelevant features may also cause overfitting and reduce interpretability of the concerned model. It is, therefore, important that the features are optimally selected before a model is built. In the case of online learning, new instances are periodically discovered, and the respective model is tactically retrained as required. Similarly, there are many real-life situations where hundreds of new features are discovered periodically, and the existing model needs to be retrained or tested for its performance improvement. Supervised selection of feature subset usually requires creation of multiple suboptimal models, thus incurring time-intensive computations. Unsupervised selections, although faster, largely rely on some subjective definition of feature relevance. In this paper, we introduce a score that accurately determines the importance of the features. The proposed score is appropriate for online feature selection scenarios for its low time complexity and ability to interpret performance improvement of the current model after the addition of a new feature, without invoking a retraining.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/ScoringScheme</link>
+                <guid>http://drummondlab.org/papers/paper/ScoringScheme</guid>
+                <pubDate>2017-02-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>FORKS: Finding Orderings Robustly using k-means and Steiner trees</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Recent advances in single cell RNA-seq technologies have provided researchers with unprecedented details of transcriptomic variation across individual cells.However, it has not been straightforward to infer differentiation trajectories from such data, due to the parameter-sensitivity of existing methods. Here, we present Finding Orderings Robustly using k-means and Steiner trees (FORKS), an algorithm that pseudo-temporally orders cells and thereby infers bifurcating state trajectories. FORKS, which is a generic method, can be applied to both single-cell and bulk differentiation data. It is a semi-supervised approach, in that it requires the user to specify the starting point of the time course. We systematically benchmarked FORKS and eight other pseudo-time estimation algorithms on six benchmark datasets, and found it to be more accurate, more reproducible, and more memory-efficient than existing methods for pseudo-temporal ordering. Another major advantage of our approach is its robustness − FORKS can be used with default parameter settings on a wide range of datasets.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/FORKS</link>
+                <guid>http://drummondlab.org/papers/paper/FORKS</guid>
+                <pubDate>2017-01-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Tumor-derived circulating endothelial cell clusters in colorectal cancer</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Clusters of tumor cells are often observed in the blood of cancer patients. These structures have been described as malignant entities for more than 50 years, although their comprehensive characterization is lacking. Contrary to current consensus, we demonstrate that a discrete population of circulating cell clusters isolated from the blood of colorectal cancer patients are not cancerous but consist of tumor-derived endothelial cells. These clusters express both epithelial and mesenchymal markers, consistent with previous reports on circulating tumor cell (CTC) phenotyping. However, unlike CTCs, they do not mirror the genetic variations of matched tumors. Transcriptomic analysis of single clusters revealed that these structures exhibit an endothelial phenotype and can be traced back to the tumor endothelium. Further results show that tumor-derived endothelial clusters do not form by coagulation or by outgrowth of single circulating endothelial cells, supporting a direct release of clusters from the tumor vasculature. The isolation and enumeration of these benign clusters distinguished healthy volunteers from treatment-na”ive as well as pathological early-stage (&amp;lt;=IIA) colorectal cancer patients with high accuracy, suggesting that tumor-derived circulating endothelial cell clusters could be used as a means of noninvasive screening for colorectal cancer. In contrast to CTCs, tumor-derived endothelial cell clusters may also provide important information about the underlying tumor vasculature at the time of diagnosis, during treatment, and throughout the course of the disease.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/ColorectalCancer</link>
+                <guid>http://drummondlab.org/papers/paper/ColorectalCancer</guid>
+                <pubDate>2016-06-29T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Fast, scalable and accurate differential expression analysis for single cells</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Analysis of single-cell RNA-seq data is challenging due to technical variability, high noise levels and massive sample sizes. Here, we describe a normalization technique that substantially reduces technical variability and improves the quality of downstream analyses. We also introduce a nonparametric method for detecting differentially expressed genes that scales to &amp;gt; 1,000 cells and is both more accurate and ~ 10 times faster than existing parametric approaches.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/DifferentialExpressionAnalysis</link>
+                <guid>http://drummondlab.org/papers/paper/DifferentialExpressionAnalysis</guid>
+                <pubDate>2016-04-22T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Debarka Sengupta</title>
+                <description>&lt;p&gt;Debarka Sengupta received his Ph.D. in Computer Sc. and Engineering from &lt;a href=&quot;http://www.jaduniv.edu.in/&quot;&gt;Jadavpur University&lt;/a&gt;. Afterward, he spent about three years as a postdoctoral research fellow at the prestigious &lt;a href=&quot;https://www.a-star.edu.sg/gis/&quot;&gt;Genome Institute of Singapore&lt;/a&gt;. Before joining &lt;a href=&quot;http://iiitd.ac.in&quot;&gt;IIIT-D&lt;/a&gt; he worked as an INSPIRE Faculty at the Machine Intelligence Unit of &lt;a href=&quot;https://www.isical.ac.in/&quot;&gt;Indian Statistical Institute&lt;/a&gt;. Debarka started his professional career as a software engineer working for Infosys and then IBM. He consulted and advised a number of technology and service-based firms including IPsoft, Datanomers, CoreCompete and Applied Research Works on various data science and business analytics projects. He received the 2007 spot award by Infosys while working there as a software engineer. His U.S. patent on applied social choice theory was awarded by the patent monetization giant Intellectual Ventures. He has twice been nominated for the prestigious INSPIRE Faculty award - in 2014 and 2016. Debarka currently mentors the data science team at Circle of Life healthcare Pvt. Ltd., a prominent, Delhi-based health tech startup.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/team/debarka</link>
+                <guid>http://drummondlab.org/team/debarka</guid>
+                <pubDate>2016-01-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Pathway Informatics</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;With the advent of ultra high-throughput genomic and epigenetic assays, generation of molecular data has skyrocketed. With the change in data type and volume, we are experiencing an acute need for more sophisticated techniques to model and infer pathways. Pathway informatics is one of the frontiers in the field of biological data analysis. It involves curation of unstructured information from publicly available literature, database building, statistical analysis of gene sets, mathematical modeling of pathways, and visualization. In this article we review various components of pathway informatics including the types of pathways, their corresponding databases, and other types of resources, as well as various computational and mathematical approaches for information fusion and inferences.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/chapter/PathwayInformatics</link>
+                <guid>http://drummondlab.org/papers/chapter/PathwayInformatics</guid>
+                <pubDate>2016-01-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>OFS: Online feature selection</title>
+                <description>
+&lt;p&gt;The OFS R source-code is available on the &lt;a href=&quot;https://github.com/debsin/OFS&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/protocols/protocol/OFS</link>
+                <guid>http://drummondlab.org/protocols/protocol/OFS</guid>
+                <pubDate>2015-11-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>FOCS: Fast Overlapped Community Search</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Discovery of natural groups of similarly functioning individuals is a key task in analysis of real world networks. Also, overlap between community pairs is commonplace in large social and biological graphs, in particular. In fact, overlaps between communities are known to be denser than the non-overlapped regions of the communities. However, most of the existing algorithms that detect overlapping communities assume that the communities are denser than their surrounding regions, and falsely identify overlaps as communities. Further, many of these algorithms are computationally demanding and thus, do not scale reasonably with varying network sizes. In this article, we propose Fast Overlapped Community Search (FOCS), an algorithm that accounts for local connectedness in order to identify overlapped communities. FOCS is shown to be linear in number of edges and nodes. It additionally gains in speed via simultaneous selection of multiple near-best communities rather than merely the best, at each iteration. FOCS outperforms some popular overlapped community finding algorithms in terms of computational time while not compromising with quality.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/FOCS</link>
+                <guid>http://drummondlab.org/papers/paper/FOCS</guid>
+                <pubDate>2015-11-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Feature selection using feature dissimilarity measure and density-based clustering: Application to biological data</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Reduction of dimensionality has emerged as a routine process in modelling complex biological systems. A large number of feature selection techniques have been reported in the literature to improve model performance in terms of accuracy and speed. In the present article an unsupervised feature selection technique is proposed, using maximum information compression index as the dissimilarity measure and the well-known density-based cluster identification technique DBSCAN for identifying the largest natural group of dissimilar features. The algorithm is fast and less sensitive to the user-supplied parameters. Moreover, the method automatically determines the required number of features and identifies them. We used the proposed method for reducing dimensionality of a number of benchmark data sets of varying sizes. Its performance was also extensively compared with some other well-known feature selection methods.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/FeatureSelection</link>
+                <guid>http://drummondlab.org/papers/paper/FeatureSelection</guid>
+                <pubDate>2015-10-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Disaggregation assay data visualization</title>
+                <description>&lt;p&gt;Interactive data visualization for disaggregation and new-synthesis data from &lt;a href=&quot;/papers/paper/endogenous-aggregates&quot;&gt;our 2015 paper on heat-triggered protein aggregation in yeast&lt;/a&gt;, Figure 6. (Aggregation data visualization is &lt;a href=&quot;/data/heat-aggregation-yeast-visualization&quot;&gt;here&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Choose detected proteins by official yeast name, from &lt;a href=&quot;http://www.yeastgenome.org/&quot;&gt;SGD&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cells were grown at 30°C, shifted to labeled media, heat-shocked for 10 minutes at 42°C, moved back to 30°C for recovery, and protein in 100,000g supernatant measured. Y-axis is ratio of protein in supernatant between treated and control cells, X-axis is either time or temperature of shock. Linetype reflects isotopic label on the amino acids: solid line is arginine/lysine imported before onset of heat shock, dashed line is imported after shock.&lt;/p&gt;
+
+&lt;iframe width=&quot;900&quot; height=&quot;720&quot; src=&quot;https://dadrummond.shinyapps.io/ratiosup_shiny/&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+</description>
+                <link>http://drummondlab.org/data/postheat-disaggregation-yeast-visualization</link>
+                <guid>http://drummondlab.org/data/postheat-disaggregation-yeast-visualization</guid>
+                <pubDate>2015-07-23T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Aggregation assay data visualization</title>
+                <description>&lt;p&gt;Interactive data visualization for data from &lt;a href=&quot;/papers/paper/endogenous-aggregates&quot;&gt;our 2015 paper on heat-triggered protein aggregation in yeast&lt;/a&gt;, Figure 1. (Disaggregation data visualization is &lt;a href=&quot;/data/postheat-disaggregation-yeast-visualization&quot;&gt;here&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Choose detected proteins by official yeast name, from &lt;a href=&quot;http://www.yeastgenome.org/&quot;&gt;SGD&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Y-axis is proportion of protein in 100,000g supernatant, X-axis is either time or temperature of shock.&lt;/p&gt;
+
+&lt;iframe width=&quot;900&quot; height=&quot;720&quot; src=&quot;https://dadrummond.shinyapps.io/psup_shiny/&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+</description>
+                <link>http://drummondlab.org/data/heat-aggregation-yeast-visualization</link>
+                <guid>http://drummondlab.org/data/heat-aggregation-yeast-visualization</guid>
+                <pubDate>2015-07-23T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>FOCS: Overlapping graph clustering</title>
+                <description>
+&lt;p&gt;Available on the &lt;a href=&quot;https://github.com/garishach/focs&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/protocols/protocol/FOCS</link>
+                <guid>http://drummondlab.org/protocols/protocol/FOCS</guid>
+                <pubDate>2015-06-16T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Weighted Markov Chain Based Aggregation of Biomolecule Orderings</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;The scope and effectiveness of Rank Aggregation (RA) have already been established in contemporary bioinformatics research. Rank aggregation helps in meta-analysis of putative results collected from different analytic or experimental sources. For example, we often receive considerably differing ranked lists of genes or microRNAs from various target prediction algorithms or microarray studies. Sometimes combining them all, in some sense, yields more effective ordering of the set of objects. Also, assigning a certain level of confidence to each source of ranking is a natural demand of aggregation. Assignment of weights to the sources of orderings can be performed by experts. Several rank aggregation approaches like those based on Markov Chains (MCs), evolutionary algorithms, etc., exist in the literature. Markov chains, in general, are faster than the evolutionary approaches. Unlike the evolutionary computing approaches Markov chains have not been used for weighted aggregation scenarios. This is because of the absence of a formal framework of Weighted Markov Chain (WMC). In this paper, we propose the use of a modified version of MC4 (one of the Markov chains proposed by Dwork et al., 2001), followed by the weighted analog of local Kemenization for performing rank aggregation, where the sources of rankings can be prioritized by an expert. Effectiveness of the weighted Markov chain approach over the very recently proposed Genetic Algorithm (GA) and Cross-Entropy Monte Carlo (MC) algorithm-based techniques, has been established for gene orderings from microarray analysis and orderings of predicted microRNA targets.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/WeightedMarkovChain</link>
+                <guid>http://drummondlab.org/papers/paper/WeightedMarkovChain</guid>
+                <pubDate>2015-05-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>The Sengupta Lab</title>
+                <description>&lt;p&gt;At Sengupta Lab, we make use of state of the art Big Data mining and Machine Learning techniques to address computational challenges arising from the field of Genomics.&lt;/p&gt;
+
+&lt;p&gt;We closely collaborate with clinicians at leading hospitals to build better predictive models for cancer survival, drug resistance in infection and label-free identification of circulating tumor cells.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/misc/home/home</link>
+                <guid>http://drummondlab.org/misc/home/home</guid>
+                <pubDate>2015-04-22T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Strong Nash Stability based Approach to Minimum Quasi Clique Partitioning</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;The problem of network partitioning into cohesive subgroups is of utmost interest in analysis of social networks. In this paper we use quasi clique based partitioning to study social cohesion. We propose a greedy algorithm based on the notion of strong Nash stability to determine the cohesive subgroups in a network. Through experimental results we show that the proposed algorithm yields promising results by identifying meaningful, compact and dense clusters in many real life social network data sets.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/Nas</link>
+                <guid>http://drummondlab.org/papers/paper/Nas</guid>
+                <pubDate>2014-01-06T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Determining a relative importance among ordered lists</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Implementations and techniques for determining a relative importance among ordered lists are generally discussed.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/OrderedLists</link>
+                <guid>http://drummondlab.org/papers/paper/OrderedLists</guid>
+                <pubDate>2013-11-05T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>XRDS Mobilizes</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;To make content more accessible to the student readers, XRDS has recently launched its new mobile app. The app will enable Android and iOS users to browse the magazine on the go from their Android or iOS enabled smart phones or tablets.Each issue of XRDS features a theme, such as” The Role of Academia in the Startup World” or” Big Data,” with coverage of research trends and interviews. Students can also read timely updates on upcoming major conferences, grants, fellowships, and contests. Even better, students can now get all this in a more convenient way—their hand-held devices.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/XRDS</link>
+                <guid>http://drummondlab.org/papers/paper/XRDS</guid>
+                <pubDate>2013-09-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>GRF: a greedy rank fusion algorithm for combining microRNA target orderings</title>
+                <description>
+</description>
+                <link>http://drummondlab.org/papers/paper/GRF</link>
+                <guid>http://drummondlab.org/papers/paper/GRF</guid>
+                <pubDate>2013-08-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>RA: Kemeny Optimal Rank Aggregation</title>
+                <description>
+&lt;p&gt;The RA: Kemeny Optimal Rank Aggregation is available on the &lt;a href=&quot;https://github.com/debarka/rekemeny&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://drummondlab.org/protocols/protocol/RA</link>
+                <guid>http://drummondlab.org/protocols/protocol/RA</guid>
+                <pubDate>2013-06-25T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Reformulated Kemeny Optimal Aggregation with Application in Consensus Ranking of microRNA Targets</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;MicroRNAs are very recently discovered small noncoding RNAs, responsible for negative regulation of gene expression. Members of this endogenous family of small RNA molecules have been found implicated in many genetic disorders. Each microRNA targets tens to hundreds of genes. Experimental validation of target genes is a time- and cost-intensive procedure. Therefore, prediction of microRNA targets is a very important problem in computational biology. Though, dozens of target prediction algorithms have been reported in the past decade, they disagree significantly in terms of target gene ranking (based on predicted scores). Rank aggregation is often used to combine multiple target orderings suggested by different algorithms. This technique has been used in diverse fields including social choice theory, meta search in web, and most recently, in bioinformatics. Kemeny optimal aggregation (KOA) is considered the more profound objective for rank aggregation. The consensus ordering obtained through Kemeny optimal aggregation incurs minimum pairwise disagreement with the input orderings. Because of its computational intractability, heuristics are often formulated to obtain a near optimal consensus ranking. Unlike its real time use in meta search, there are a number of scenarios in bioinformatics (e.g., combining microRNA target rankings, combining disease-related gene rankings obtained from microarray experiments) where evolutionary approaches can be afforded with the ambition of better optimization. We conjecture that an ideal consensus ordering should have its total disagreement shared, as equally as possible, with the input orderings. This is also important to refrain the evolutionary processes from getting stuck to local extremes. In the current work, we reformulate Kemeny optimal aggregation while introducing a trade-off between the total pairwise disagreement and its distribution. A simulated annealing-based implementation of the proposed objective has been found effective in context of microRNA target ranking.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/KemenyAggr</link>
+                <guid>http://drummondlab.org/papers/paper/KemenyAggr</guid>
+                <pubDate>2013-06-25T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Topological patterns in microRNA–gene regulatory network: studies in colorectal and breast cancer</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;It is now widely accepted that microRNAs (miRNAs or miRs) along with transcription factors (TFs) weave a complex inter-regulatory network within the cell that is responsible for the combinatorial regulation of gene expression. Recently we have shown that miRNAs and TFs that form network clusters are also associated with a number of common diseases. However, the quest persists to find out topological structures that facilitate disease progression. In the current work we choose colorectal and breast cancers for our analysis. For this, the human genome wide TF–miRNA–gene network (TMG-net) is first built by combining experimentally validated and confidently predicted miRNA → gene (including TF genes), TF → gene and TF → miRNA interactions. Subnetworks active in colorectal and breast cancers are extracted from the TMG-net and then analyzed. Disease specific subnetworks are found to be significantly dense, having a pyramid shaped hierarchical backbone of interactions. Interestingly, most of the top level molecules (e.g., hsa-mir-210, hsa-mir-378) are found to be already established as oncomirs. TFs that are dysregulated in a particular cancer, are found to be well-linked via miRNAs and other TFs, with miRNAs being highly predominant. Analogous to density, a new measure called Inductive Converge (InCov) is proposed and used to analyze the natural association of molecules in the disease specific networks. Finally a web application called DisTMGneT (Disease Specific TF–miRNA–gene Network) is developed for disease specific subnetworks from the TMG-net, based on user supplied sets of dysregulated miRNAs, TFs and non TF genes. DisTMGneT is available at http://www.isical.ac.in/bioinfo_miu/dscsgen.php.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/TopologicalPatterns</link>
+                <guid>http://drummondlab.org/papers/paper/TopologicalPatterns</guid>
+                <pubDate>2013-03-11T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Score based aggregation of microRNA target orderings</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Rank aggregation refers to the task of combining different orderings of an identical set of objects to obtain a consensus ranked list. Other than meta-search in web mining, in last few years, this technique has successfully been employed to address problems arising from bioinformatics domain. Consensus ranking of disease related genes, miRNA targets are ample examples in this context. It can be argued that scores are more informative than mere ranks. Existing score based aggregation techniques are evolutionary in nature and consume significant amount of time. We, for the first time propose a Markov chain for score based aggregation ranked lists. The proposed method is found out-performing the existing methods in terms of time consumption (by far) and performance when used in context of microRNA (miRNA) target ranking.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/microRNA</link>
+                <guid>http://drummondlab.org/papers/paper/microRNA</guid>
+                <pubDate>2012-05-21T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Participation of microRNAs in human interactome: extraction of microRNA–microRNA regulations</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;To date, a significant amount of research has been conducted for computational modeling of the microRNA(miRNA)-target gene interactions and inferring different kinds of biologically relevant association from their variable expressions, available from microarray experiments. However, topological organization of the miRNA–transcription factor (TF) induced regulatory network has not yet been analyzed at a genome scale. Evidently, by ignoring the regulatory relationship among the constituent molecules, we expose our model to a great deal of noise. Besides this, the miRNA–TF regulatory network also helps extract a putative set of regulations among miRNAs and hypothesize the miRNA–miRNA regulatory network. We constructed the miRNA and TF induced regulatory network for humans by combining all possible regulations between miRNAs and TFs. Topological analysis of the network revealed some of its non-trivial and intrinsic properties. The concept of topological overlap has been extended to formulate a novel dissimilarity measure that is capable of mining groups of closely interacting molecules from a weighted digraph such that the molecules in each group regulate each other to a large extent. Many of the identified TF modules are found to be enriched in different functional categories. On the other hand, many of the identified miRNA modules displayed significant associations with common diseases. Finally, the miRNA–TF induced regulatory network yields a putative miRNA inter-regulatory network which may be considered as the first step towards the understanding of the regulatory relationship amongst miRNAs. A large number of the validated regulations were found in the predicted set of regulations, having a significantly high average score. A web application is created to facilitate the search of the Putative miRNA–miRNA Regulations (PmmR).&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/HumanInteractome</link>
+                <guid>http://drummondlab.org/papers/paper/HumanInteractome</guid>
+                <pubDate>2011-04-11T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Entropy steered Kendall's tau measure for a fair Rank Aggregation</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Rank Aggregation, in layman’s term, is a technique of inferring a consensus ranking when multiple ranked lists of a set objects are given. Rank Aggregation has importance in a wide spectrum of fields including spam reduction in meta search, social choice theory of welfare economics, microarray analysis in bioinformatics etc. Unfortunately an ample Rank Aggregation is computationally a hard task to do even for a small set of objects. Till the date several heuristic algorithms have been devised towards its improvement. Almost all these heuristics rely on certain notion of disagreement between two ranked lists. Kendall’s tau distance is undoubtedly quite popular among them, for its various desirable features. Kendall’s tau distance is often used by different heuristics for approximating the consensus list. We in this article point out an important drawback of the Kendall’s tau distance and propose a modified measure by using Shanon’s Entropy formula. We also explain its benefit through some artificial and real data.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/Entropy</link>
+                <guid>http://drummondlab.org/papers/paper/Entropy</guid>
+                <pubDate>2011-03-04T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>A novel measure for evaluating an ordered list: application in microRNA target prediction</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Sensitivity and specificity are the most widely used statistics for measuring the performance of a binary classification test. They stand vastly meaningful for variety of use cases where the classifying tests are affordable. But unfortunately, there is a legion of problems arriving from different streams of natural sciences where the screening test is too expensive to render for all the predicted objects. Thus, the trend has been for scientists to calculate the sensitivity and the specificity of a binary classification test based on a handful of experimentally proven facts, which is theoretically uncertain. In this article a novel measure is proposed that assigns importance to multiple ordered lists, taking into account the share of majority voted ranked pairs of elements a list contains. A real life bioinformatic application is demonstrated in the domain of microRNA target prediction where a number of algorithms exist. Using the proposed measure, we aim to assign certain weight to each algorithm that conveys its reliability with respect to the rest.&lt;/p&gt;
+</description>
+                <link>http://drummondlab.org/papers/paper/OrderedList</link>
+                <guid>http://drummondlab.org/papers/paper/OrderedList</guid>
+                <pubDate>2010-02-15T00:00:00+05:30</pubDate>
+        </item>
+
+
+</channel>
+</rss>
