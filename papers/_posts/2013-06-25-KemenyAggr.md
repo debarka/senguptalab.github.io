@@ -2,7 +2,7 @@
 layout: paper
 title: "Reformulated Kemeny Optimal Aggregation with Application in Consensus Ranking of microRNA Targets"
 year: "2013"
-shortref: "Debarka et al. IEEE/ACM transactions 2013"
+shortref: "Sengupta et al. IEEE/ACM transactions 2013"
 nickname:
 journal: "IEEE/ACM transactions on computational biology and bioinformatics"
 volume: 10
