@@ -9,7 +9,7 @@ volume: 7
 issue: 6
 pages: 1966-1973
 authors: "Debarka Sengupta, Sanghamitra Bandyopadhyay"
-image: /assets/images/papers/HumanInteractome.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/HumanInteractome.png
 pdf:
 pdflink: http://pubs.rsc.org/en/content/articlelanding/2011/mb/c0mb00347f/unauth#!divAbstract
 github:
