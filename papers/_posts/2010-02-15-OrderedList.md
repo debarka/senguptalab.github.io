@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 37
 authors: "Debarka Sengupta, Sanghamitra Bandyopadhyay, Ujjwal Maulik"
-image: /assets/images/papers/OrderedList.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/OrderedList.png
 pdf:
 pdflink: https://dl.acm.org/citation.cfm?id=1722067
 github:
