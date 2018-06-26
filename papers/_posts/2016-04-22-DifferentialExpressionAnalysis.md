@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 049734
 authors: "Debarka Sengupta, Nirmala Arul Rayan, Michelle Lim, Bing Lim, Shyam Prabhakar"
-image: /assets/images/papers/DifferentialExpressionAnalysis.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/DifferentialExpressionAnalysis.png
 pdf:
 pdflink: https://www.biorxiv.org/content/early/2016/04/22/049734
 github:
