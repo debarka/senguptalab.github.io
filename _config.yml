@@ -66,6 +66,7 @@ JB :
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
   BASE_PATH : TRUE
+  baseurl: /
   #url: https://debarka.github.io
   #baseurl: /debarka
 
