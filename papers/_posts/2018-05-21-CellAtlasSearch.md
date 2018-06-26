@@ -9,7 +9,7 @@ volume:
 issue:
 pages:
 authors: "Divyanshu Srivastava, Arvind Iyer, Vibhor Kumar, Debarka Sengupta"
-image: /assets/images/papers/CellAtlasSearch.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/CellAtlasSearch.png
 pdf:
 pdflink: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky421/5000022
 github:
