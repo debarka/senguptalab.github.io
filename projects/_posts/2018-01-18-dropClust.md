@@ -14,7 +14,7 @@ tags: []
 Droplet-based single-cell transcriptomics has recently enabled parallel screening of tens of thousands of single cells. Clustering methods that scale for such high dimensional data without compromising accuracy are scarce. We exploit Locality Sensitive Hashing, an approximate nearest neighbor search technique to develop a de novo clustering algorithm for large-scale single-cell data. On a number of real datasets, dropClust outperformed the existing best practice methods including Seurat in terms of speed, clustering accuracy and detectability of minor cell sub-types. Moreover, dropClust, for the first time, helps discerning transcriptomic signature of the regulatory T cell population in blood.
 
 
-![dropClust](https://debarka.github.io/senguptalab/assets/images/dropClust.jpeg){:height="700px" width="700px" style=".center"}
+<!--![dropClust](https://debarka.github.io/senguptalab/assets/images/dropClust.jpeg){:height="700px" width="700px" style=".center"}-->
 
 ### Publication
 
