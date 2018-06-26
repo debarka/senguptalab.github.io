@@ -9,7 +9,7 @@ volume: 10
 issue: 3
 pages: 742-751
 authors: "Debarka Sengupta, Aroonalok Pyne, Ujjwal Maulik, Sanghamitra Bandyopadhyay"
-image: /assets/images/papers/KemenyAggr.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/KemenyAggr.png
 pdf:
 pdflink: https://ieeexplore.ieee.org/abstract/document/6547149/
 github:
