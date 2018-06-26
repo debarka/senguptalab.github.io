@@ -2,7 +2,7 @@
 layout: paper
 title: "Feature selection using feature dissimilarity measure and density-based clustering: Application to biological data"
 year: "2015"
-shortref: "Debarka et al. Journal of Biosciences 2015"
+shortref: "Sengupta et al. Journal of Biosciences 2015"
 nickname:
 journal: "Journal of Biosciences"
 volume: 40
