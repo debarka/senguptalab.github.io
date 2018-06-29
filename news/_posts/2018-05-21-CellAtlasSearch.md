@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "CellAtlasSearch: Dream Project published"
+title: "CellAtlasSearch"
 author: "Debarka Sengupta"
 author_handle: Debarka Sengupta
 image: https://debarka.github.io/senguptalab/assets/images/news/default-news.png
