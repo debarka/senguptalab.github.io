@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Priya Rai"
-position: Graduate Student
+position: Doctoral Student
 nickname: Priya
 handle:
 email: priyadarshinir@iiitd.ac.in
