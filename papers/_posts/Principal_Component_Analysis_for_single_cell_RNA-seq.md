@@ -1,14 +1,14 @@
 ---
 layout: paper
-title: "Structure aware Principal Component Analysis for single cell RNA-seq data ... Accepted in JCB"
+title: "Structure aware Principal Component Analysis for single cell RNA-seq data (In press JCB)"
 year: "2018"
-shortref: ""
+shortref: "Snehalika Lall et al. JCB 2018"
 nickname:
 journal: ""
 volume:
 issue:
 pages: 37
-authors: "Snehalika Lall, Debajyoti Sinha, sanghamitra bandyopadhyay, Debarka Sengupta"
+authors: "Snehalika Lall, Debajyoti Sinha, sanghamitra bandyopadhyay, Debarka Sengupta 2018"
 image: https://debarka.github.io/senguptalab/assets/images/papers/Principal_Component_Analysis_for_single_cell_RNA-seq.png
 pdf:
 pdflink: "soon"
