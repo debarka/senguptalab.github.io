@@ -1,10 +1,10 @@
 ---
 layout: paper
-title: "A novel measure for evaluating an ordered list: application in microRNA target prediction"
-year: "2010"
-shortref: "Sengupta et al. International Symposium on Biocomputing 2010"
+title: "Structure aware Principal Component Analysis for single cell RNA-seq data ... Accepted in JCB"
+year: "2018"
+shortref: ""
 nickname:
-journal: "Proceedings of the International Symposium on Biocomputing"
+journal: ""
 volume:
 issue:
 pages: 37
