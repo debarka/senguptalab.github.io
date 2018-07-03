@@ -2,9 +2,9 @@
 layout: paper
 title: "Structure aware Principal Component Analysis for single cell RNA-seq data (In press JCB)"
 year: "2018"
-shortref: "Snehalika Lall et al. JCB 2018"
+shortref: "Snehalika Lall et al. The Journal of Cell Biology 2018"
 nickname:
-journal: ""
+journal: "The Journal of Cell Biology"
 volume:
 issue:
 pages: 37
