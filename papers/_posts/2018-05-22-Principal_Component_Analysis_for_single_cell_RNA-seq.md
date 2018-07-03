@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 37
 authors: "Snehalika Lall, Debajyoti Sinha, sanghamitra bandyopadhyay, Debarka Sengupta"
-image: https://debarka.github.io/senguptalab/assets/images/papers/Principal_Component_Analysis_for_single_cell_RNA-seq.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/PCA_single_cell.png
 pdf:
 pdflink: "soon"
 github:
