@@ -13,7 +13,7 @@ image: https://debarka.github.io/senguptalab/assets/images/papers/PCA_single_cel
 pdf:
 pdflink: "In Press JCB"
 github:
-pmid:
+pmid: 29788499
 pmcid:
 f1000:
 figshare:
