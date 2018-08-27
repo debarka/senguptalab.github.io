@@ -8,8 +8,8 @@ journal: "Journal of Computational Biology"
 volume: 46
 issue: 6
 pages:
-authors: "Debajyoti Sinha, Akhilesh Kumar, Himanshu Kumar, Sanghamitra Bandyopadhyay, Debarka Sengupta"
-image: https://debarka.github.io/senguptalab/assets/images/papers/dropClust.png
+authors: "Snehalika Lall, Debajyoti Sinha, Sanghamitra Bandyopadhyay, and Debarka Sengupta"
+image: 
 pdf:
 pdflink: https://www.liebertpub.com/doi/10.1089/cmb.2018.0027
 github: 
