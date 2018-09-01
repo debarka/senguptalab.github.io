@@ -147,26 +147,7 @@ categories:
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">
 			{% for paper in site.categories.papers %}
-      {% if paper.pmid == 30133312  %}
-				<div class="note-title">
-					<i class="fa fa-file-text-o fa-fw"></i>
-					<a class="off" href="{{ paper.url }}">
-					{{ paper.title }}
-					</a>
-					<br/>
-					<div class='shortref note'>
-					{{ paper.shortref }}
-					</div>
-				</div>
-				<div class="smallspacer"></div>
-				<div class="smallnote">
-					<!-- Published
-					(In Press) -->
-					{{ paper.date | date_to_string }}
-				</div>
-				<div class="spacer"></div>
-				<div class="spacer"></div>
-      {% endif %}
+      
 			
       {% if paper.pmid == 29788498  %}
 				<div class="note-title">
