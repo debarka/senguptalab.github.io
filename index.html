@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Sengupta Lab
-categories:home
+categories:
+ - home
 ---
 {% include JB/setup %}
 {% for page in site.categories.misc %}
@@ -146,7 +147,7 @@ categories:home
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">
 			{% for paper in site.categories.papers %}
-      {% if paper.pmid == 30133312  %}
+      {% if paper.pmid == 29788333  %}
 				<div class="note-title">
 					<i class="fa fa-file-text-o fa-fw"></i>
 					<a class="off" href="{{ paper.url }}">
@@ -159,9 +160,9 @@ categories:home
 				</div>
 				<div class="smallspacer"></div>
 				<div class="smallnote">
-					<!-- Published
-					(In Press) -->
-					{{ paper.date | date_to_string }}
+					Published
+					(In Press)
+					<!--{{ paper.date | date_to_string }}-->
 				</div>
 				<div class="spacer"></div>
 				<div class="spacer"></div>
