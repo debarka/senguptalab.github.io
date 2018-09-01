@@ -13,7 +13,7 @@ image: https://debarka.github.io/senguptalab/assets/images/papers/PCA_single_cel
 pdf: https://www.liebertpub.com/doi/pdf/10.1089/cmb.2018.0027
 pdflink: https://www.liebertpub.com/doi/pdf/10.1089/cmb.2018.0027
 github:
-pmid: 30133312
+pmid: 29788423
 pmcid:
 f1000:
 figshare:
