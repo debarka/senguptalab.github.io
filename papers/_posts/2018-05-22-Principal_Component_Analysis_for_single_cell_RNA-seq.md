@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Structure aware Principal Component Analysis for single cell RNA-seq data (In Press)"
+title: "Structure aware Principal Component Analysis for single cell RNA-seq data"
 year: "2018"
 shortref: "Lall et al. Journal of Computational Biology 2018"
 nickname:
