@@ -1,23 +1,23 @@
 ---
 layout: paper
-title: "CellAtlasSearch: a scalable search engine for single cells"
+title: "Structure aware Principal Component Analysis for single cell RNA-seq data (In Press)"
 year: "2018"
-shortref: "Srivastava et al. Nucleic Acids Research 2018"
+shortref: "Lall et al. Journal of Computational Biology 2018"
 nickname:
-journal: "Nucleic Acids Research"
-volume:
-issue:
-pages:
-authors: "Divyanshu Srivastava, Arvind Iyer, Vibhor Kumar, Debarka Sengupta"
-image: https://debarka.github.io/senguptalab/assets/images/papers/CellAtlasSearch.png
+journal: "Journal of Computational Biology"
+volume:25
+issue:0
+pages:1-9
+authors: "Snehalika Lall, Debajyoti Sinha, sanghamitra bandyopadhyay, Debarka Sengupta"
+image: https://debarka.github.io/senguptalab/assets/images/papers/PCA_single_cell.png
 pdf:
-pdflink: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky421/5000022
+pdflink: https://www.liebertpub.com/doi/pdf/10.1089/cmb.2018.0027
 github:
-pmid: 29788498 
+pmid: 29788333
 pmcid:
 f1000:
 figshare:
-doi: 10.1093/nar/gky421.
+doi: 
 category: paper
 published: true
 peerreview:
@@ -29,4 +29,4 @@ tags:
 
 # Abstract
 
-Owing to the advent of high throughput single cell transcriptomics, past few years have seen exponential growth in production of gene expression data. Recently efforts have been made by various research groups to homogenize and store single cell expression from a large number of studies. The true value of this ever increasing data deluge can be unlocked by making it searchable. To this end, we propose CellAtlasSearch, a novel search architecture for high dimensional expression data, which is massively parallel as well as light-weight, thus infinitely scalable. In CellAtlasSearch, we use a Graphical Processing Unit (GPU) friendly version of Locality Sensitive Hashing (LSH) for unmatched speedup in data processing and query. Currently, CellAtlasSearch features over 300 000 reference expression profiles including both bulk and single-cell data. It enables the user query individual single cell transcriptomes and finds matching samples from the database along with necessary meta information. CellAtlasSearch aims to assist researchers and clinicians in characterizing unannotated single cells. It also facilitates noise free, low dimensional representation of single-cell expression profiles by projecting them on a wide variety of reference samples.
+With the emergence of droplet-based technologies, it has now become possible to profile transcriptomes of several thousands of cells in a day. Although such a large single-cell cohort may favor the discovery of cellular heterogeneity, it also brings new challenges in the prediction of minority cell types. Identification of any minority cell type holds a special significance in knowledge discovery. In the analysis of single-cell expression data, the use of principal component analysis (PCA) is surprisingly frequent for dimension reduction. The principal directions obtained from PCA are usually dominated by the major cell types in the concerned tissue. Thus, it is very likely that using a traditional PCA may endanger the discovery of minority populations. To this end, we propose locality-sensitive PCA (LSPCA), a scalable variant of PCA equipped with structure-aware data sampling at its core. Structure-aware sampling provides PCA with a neutral spread of the data, thereby reducing the bias in its principal directions arising from the redundant samples in a data set. We benchmarked the performance of the proposed method on ten publicly available single-cell expression data sets including one very large annotated data set. Results have been compared with traditional PCA and PCA with random sampling. Clustering results on the annotated data sets also show that LSPCA can detect the minority populations with a higher accuracy.
