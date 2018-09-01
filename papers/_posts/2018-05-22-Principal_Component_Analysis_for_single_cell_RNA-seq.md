@@ -5,9 +5,9 @@ year: "2018"
 shortref: "Lall et al. Journal of Computational Biology 2018"
 nickname:
 journal: "Journal of Computational Biology"
-volume:25
-issue:0
-pages:1
+volume:
+issue:
+pages:
 authors: "Snehalika Lall, Debajyoti Sinha, sanghamitra bandyopadhyay, Debarka Sengupta"
 image: https://debarka.github.io/senguptalab/assets/images/papers/PCA_single_cell.png
 pdf:
