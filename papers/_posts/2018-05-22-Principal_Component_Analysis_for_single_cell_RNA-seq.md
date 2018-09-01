@@ -10,7 +10,7 @@ issue:
 pages:
 authors: "Snehalika Lall, Debajyoti Sinha, Sanghamitra Bandyopadhyay, Debarka Sengupta"
 image: https://debarka.github.io/senguptalab/assets/images/papers/PCA_single_cell.png
-pdf: https://www.liebertpub.com/doi/pdf/10.1089/cmb.2018.0027
+pdf: 
 pdflink: https://www.liebertpub.com/doi/pdf/10.1089/cmb.2018.0027
 github:
 pmid: 30133312 
