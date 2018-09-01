@@ -7,7 +7,7 @@ nickname:
 journal: "Journal of Computational Biology"
 volume:25
 issue:0
-pages:
+pages:1
 authors: "Snehalika Lall, Debajyoti Sinha, sanghamitra bandyopadhyay, Debarka Sengupta"
 image: https://debarka.github.io/senguptalab/assets/images/papers/PCA_single_cell.png
 pdf:
