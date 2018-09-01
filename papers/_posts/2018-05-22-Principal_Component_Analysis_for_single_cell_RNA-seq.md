@@ -17,7 +17,7 @@ pmid: 29788423
 pmcid:
 f1000:
 figshare:
-doi: https://doi.org/10.1089/cmb.2018.0027
+doi: 10.1089/cmb.2018.0027
 category: paper
 published: true
 peerreview:
