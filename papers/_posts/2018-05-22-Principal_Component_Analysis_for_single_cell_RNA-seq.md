@@ -8,7 +8,7 @@ journal: "Journal of Computational Biology"
 volume:
 issue:
 pages:
-authors: "Snehalika Lall, Debajyoti Sinha, sanghamitra bandyopadhyay, Debarka Sengupta"
+authors: "Snehalika Lall, Debajyoti Sinha, Sanghamitra Bandyopadhyay, Debarka Sengupta"
 image: https://debarka.github.io/senguptalab/assets/images/papers/PCA_single_cell.png
 pdf:
 pdflink: https://www.liebertpub.com/doi/pdf/10.1089/cmb.2018.0027
