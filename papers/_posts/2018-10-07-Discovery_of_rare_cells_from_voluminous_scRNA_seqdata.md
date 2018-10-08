@@ -19,7 +19,7 @@ f1000:
 figshare:
 doi: 
 category: paper
-published: false
+published: true
 peerreview:
 review: false
 tags:
