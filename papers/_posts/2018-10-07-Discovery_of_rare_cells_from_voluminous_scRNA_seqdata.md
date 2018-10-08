@@ -9,7 +9,7 @@ volume:
 issue:
 pages:
 authors: "Aashi Jindal, Prashant Gupta, Jayadeva, and Debarka Sengupta"
-image: https://debarka.github.io/senguptalab/assets/images/papers/CellAtlasSearch.png
+image: https://debarka.github.io/senguptalab/assets/images/no-thumbnail.png
 pdf:
 pdflink: 
 github:
