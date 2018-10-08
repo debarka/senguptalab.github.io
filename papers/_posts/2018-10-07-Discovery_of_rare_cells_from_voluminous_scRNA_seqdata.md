@@ -8,7 +8,7 @@ journal: "Nature Communications"
 volume:
 issue:
 pages:
-authors: "Aashi Jindal, Prashant Gupta1, Jayadeva1, and Debarka Sengupta"
+authors: "Aashi Jindal, Prashant Gupta, Jayadeva, and Debarka Sengupta"
 image: https://debarka.github.io/senguptalab/assets/images/papers/CellAtlasSearch.png
 pdf:
 pdflink: 
