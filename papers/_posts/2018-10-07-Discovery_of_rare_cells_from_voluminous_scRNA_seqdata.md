@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Discovery of rare cells from voluminous scRNA-seq data "
+title: "Discovery of rare cells from voluminous scRNA-seq data (Accepted in principle)"
 year: "2018"
 shortref: "Aashi Jindal et al. Nature Communications 2018"
 nickname:
