@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "AutoImpute : Autoencoder based imputation of single-cell RNA-seq data (Accepted in principle)"
+title: "AutoImpute : Autoencoder based imputation of single-cell RNA-seq data"
 year: "2018"
 shortref: "Talwar et al. Scientific Reports 2018"
 nickname:
@@ -12,12 +12,12 @@ authors: "Divyanshu Talwar, Aanchal Mongia, Angshul Majumdar, and Debarka Sengup
 image: https://debarka.github.io/senguptalab/assets/images/papers/AutoImpute.png
 pdf:
 pdflink: https://www.nature.com/articles/s41598-018-34688-x
-github:
-pmid: 30413715
-pmcid:
+github: divyanshu-talwar/AutoImpute
+pmid: 30397240
+pmcid: PMC6218547
 f1000:
 figshare:
-doi: : 10.1038/s41467-018-07234-6 
+doi: 10.1038/s41598-018-34688-x 
 category: paper
 published: true
 peerreview:
