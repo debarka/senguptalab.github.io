@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Discovery of rare cells from voluminous single cell expression data (Accepted in principle)"
+title: "Discovery of rare cells from voluminous single cell expression data"
 year: "2018"
 shortref: "Jindal et al. Nature Communications 2018"
 nickname:
@@ -13,7 +13,7 @@ image: https://debarka.github.io/senguptalab/assets/images/papers/FiRE.png
 pdf:
 pdflink: https://www.nature.com/articles/s41467-018-07234-6
 github:
-pmid: 301
+pmid: 30413715
 pmcid:
 f1000:
 figshare:
