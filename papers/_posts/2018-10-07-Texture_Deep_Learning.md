@@ -9,7 +9,7 @@ volume:
 issue:
 pages:
 authors: “Krishan Gupta, Tushar Jain, and Debarka Sengupta"
-image: https://debarka.github.io/senguptalab/assets/images/papers/Texture.png
+image: https://debarka.github.io/senguptalab/assets/images/no-thumbnail.png
 pdf:
 pdflink: 
 github:
