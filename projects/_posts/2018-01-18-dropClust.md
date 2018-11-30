@@ -21,4 +21,4 @@ Droplet-based single-cell transcriptomics has recently enabled parallel screenin
 Sinha, D., Kumar, A., Kumar, H., Bandyopadhyay, S., and Sengupta, D., 2018. [dropClust:][1] Efficient clustering of ultra-large scRNA-seq data.
 
 
-[1]: https://academic.oup.com/nar/article/46/6/e36/4816215
+[1]: https://www.debarka.com/papers/paper/dropClust
