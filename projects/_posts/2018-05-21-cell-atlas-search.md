@@ -22,4 +22,4 @@ An explosion in production of single-cell expression data has triggered the need
 Srivastava, D., Iyer, A., Kumar, V., and Sengupta, D., 2018. [CellAtlasSearch:][1] A scalable search engine for single cells.
 
 
-[1]: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky421/5000022
+[1]: https://www.debarka.com/papers/paper/CellAtlasSearch
