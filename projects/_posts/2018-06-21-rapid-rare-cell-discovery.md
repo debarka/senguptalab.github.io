@@ -24,4 +24,4 @@ Existing rare cell finding algorithms including GiniClust[PMID: 27368803] and Ra
 Jindal, A., Gupta, P., Jayadeva, and Sengupta, D., 2018. [Discovery of rare cells from voluminous single cell expression data][1].
 
 
-[1]: https://www.nature.com/articles/s41467-018-07234-6
+[1]: https://www.debarka.com/papers/paper/FiRE
