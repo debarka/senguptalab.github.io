@@ -8,6 +8,6 @@ category: news
 tags: [publication]
 ---
 
-Article published in 'The Hindu' newspaper.
+Article published in '[The Hindu]' newspaper.
 
-[Article]: https://www.thehindu.com/sci-tech/science/delhi-researchers-develop-an-algorithm-to-detect-rare-cells/article25858359.ece
+[The Hindu]: https://www.thehindu.com/sci-tech/science/delhi-researchers-develop-an-algorithm-to-detect-rare-cells/article25858359.ece
