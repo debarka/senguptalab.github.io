@@ -7,6 +7,6 @@ category: news
 tags: [publication]
 ---
 
-Article posted on ['sciencedaily.com'].
+Article posted on '[sciencedaily.com]'.
 
-['sciencedaily.com']: https://www.sciencedaily.com/releases/2017/03/170320143818.htm
+[sciencedaily.com]: https://www.sciencedaily.com/releases/2017/03/170320143818.htm
