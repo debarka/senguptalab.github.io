@@ -9,7 +9,7 @@ volume:
 issue:
 pages:
 authors: "Krishan Gupta, Tushar Jain, and Debarka Sengupta"
-image: https://debarka.github.io/senguptalab/assets/images/papers/TextClassification.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/TextureClassification.png
 pdf:
 pdflink: https://link.springer.com/chapter/10.1007/978-3-030-05918-7_31
 github:
