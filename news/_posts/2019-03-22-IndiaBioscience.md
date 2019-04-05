@@ -1,3 +1,4 @@
+---
 layout: news
 title: "indiabioscience.org: 'FiRE: Finding a needle in the haystack'"
 author: "Debarka Sengupta"
