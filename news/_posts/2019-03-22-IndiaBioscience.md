@@ -1,5 +1,5 @@
 layout: news
-title: "indiabioscience.org: 'FiRE: Finding a needle in the haystack
+title: "indiabioscience.org: 'FiRE: Finding a needle in the haystack'"
 author: "Debarka Sengupta"
 author_handle: Debarka Sengupta
 image: https://debarka.github.io/senguptalab/assets/images/news/default-news.png
