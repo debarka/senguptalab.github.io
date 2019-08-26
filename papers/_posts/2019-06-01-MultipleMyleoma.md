@@ -9,7 +9,7 @@ volume: 9
 issue:
 pages: 633
 authors: "Chitrita Goswami, Sarita Poonia, Debarka Sengupta, Lalit Kumar"
-image: https://debarka.github.io/senguptalab/assets/images/papers/MutlipleMyleoma.jpg
+image: https://debarka.github.io/senguptalab/assets/images/papers/MultipleMyleoma.jpg
 pdf:
 pdflink: https://www.frontiersin.org/articles/10.3389/fonc.2019.00633/full
 github:
