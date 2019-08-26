@@ -5,9 +5,9 @@ year: "2019"
 shortref: "Mukherjee et al. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2019"
 nickname:
 journal: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
-volume:
-issue:
-pages: 37
+volume: 3
+issue: 2
+pages: 58
 authors: "Manideepa Mukherjee, Sana Ali Naqvi, Anushika Verma, Debarka Sengupta, Aman Parnami"
 image: https://debarka.github.io/senguptalab/assets/images/papers/MenstruLoss.jpg
 pdf:
