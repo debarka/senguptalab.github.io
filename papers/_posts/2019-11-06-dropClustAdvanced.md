@@ -9,7 +9,7 @@ volume:
 issue: 
 pages:
 authors: "Debajyoti Sinha, Pradyumn Sinha, Ritwik Saha, Sanghamitra Bandyopadhyay, Debarka Sengupta"
-image: https://debarka.github.io/senguptalab/assets/images/papers/dropClustAdvanced.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/dropClustAdvanced.PNG
 pdf:
 pdflink: https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz823/5613889?redirectedFrom=fulltext
 github: debsin/dropClust
