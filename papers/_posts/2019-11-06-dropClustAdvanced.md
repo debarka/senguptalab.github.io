@@ -9,7 +9,7 @@ volume:
 issue: 
 pages:
 authors: "Debajyoti Sinha, Pradyumn Sinha, Ritwik Saha, Sanghamitra Bandyopadhyay, Debarka Sengupta"
-image: https://debarka.github.io/senguptalab/assets/images/papers/dropClust.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/dropClustAdvanced.png
 pdf:
 pdflink: https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz823/5613889?redirectedFrom=fulltext
 github: debsin/dropClust
@@ -29,4 +29,4 @@ tags:
 
 # Abstract
 
-Droplet based single cell transcriptomics has recently enabled parallel screening of tens of thousands of single cells. Clustering methods that scale for such high dimensional data without compromising accuracy are scarce. We exploit Locality Sensitive Hashing, an approximate nearest neighbour search technique to develop a de novo clustering algorithm for large-scale single cell data. On a number of real datasets, dropClust outperformed the existing best practice methods in terms of execution time, clustering accuracy and detectability of minor cell sub-types.
+DropClust leverages Locality Sensitive Hashing (LSH) to speed up clustering of large scale single cell expression data. Here we present the improved dropClust, a complete R package that is, fast, interoperable and minimally resource intensive. The new dropClust features a novel batch effect removal algorithm that allows integrative analysis of single cell RNA-seq (scRNA-seq) datasets.
