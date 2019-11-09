@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "dropClust: Efficient clustering of ultra-large scRNA-seq data"
+title: "Improved dropClust R package with integrative analysis support for scRNA-seq data"
 year: "2019"
 shortref: "Sinha et al. Bioinformatics 2019"
 nickname:
