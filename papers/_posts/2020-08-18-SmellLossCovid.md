@@ -9,7 +9,7 @@ volume:
 issue: 
 pages:
 authors: "Krishan Gupta, Sanjay Kumar Mohanty, Aayushi Mittal, Siddhant Kalra, Suvendu Kumar, Tripti Mishra, Jatin Ahuja, Debarka Sengupta, Gaurav Ahuja"
-image: https://debarka.github.io/senguptalab/assets/images/papers/dropClustAdvanced.PNG
+image: https://debarka.github.io/senguptalab/assets/images/papers/SmellLossCovid.jpg
 pdf:
 pdflink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462334/
 github: 
