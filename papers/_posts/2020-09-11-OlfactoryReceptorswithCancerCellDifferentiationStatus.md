@@ -9,7 +9,7 @@ volume: 3
 issue: 1
 pages: 1-10
 authors: "Siddhant Kalra, Aayushi Mittal, Krishan Gupta, Vrinda Singhal, Anku Gupta, Tripti Mishra, Srivatsava Naidu, Debarka Sengupta, Gaurav Ahuja"
-image: https://debarka.github.io/senguptalab/assets/images/papers/OlfactoryReceptorswithCancerCellDifferentiationStatus.png
+image: https://debarka.github.io/senguptalab/assets/images/papers/OlfactoryReceptorsWithCancerCellDifferentiationStatus.png
 pdf:
 pdflink: https://www.nature.com/articles/s42003-020-01232-5
 pmid: 
